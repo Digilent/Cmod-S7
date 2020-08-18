@@ -1,0 +1,6 @@
+[submodule "hw"]
+	path = hw
+	url = https://github.com/Digilent/Cmod-S7-HW.git
+[submodule "sw"]
+	path = sw
+	url = https://github.com/Digilent/Cmod-S7-SW.git
